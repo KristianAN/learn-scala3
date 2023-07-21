@@ -23,6 +23,21 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
  - [http4s](https://http4s.org/)
     Typeful, functional, streaming HTTP for Scala, built using fs2
 
+# Tools
+  - [Scala-CLI](https://scala-cli.virtuslab.org)
+    Scala CLI is a command-line tool to interact with the Scala language
+    
+# Develop
+
+## Windows
+
+## Linux
+
+## MacOS
+
+## Nix
+  - [Nix flake for getting started with Scala](https://github.com/DevInsideYou/scala-seed)
+
 # Getting Started TODO
  - [ ] Build a pure functional CLI application with [Decline Effect](https://ben.kirw.in/decline/effect.html)
  - [ ] Build a pure functional web server using http4s.
