@@ -39,7 +39,7 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
   - [Nix flake for getting started with Scala](https://github.com/DevInsideYou/scala-seed)
 
 # Getting Started TODO
- - [ ] Build a pure functional CLI application with [Decline Effect](https://ben.kirw.in/decline/effect.html)
+ - [ ] Build a pure functional CLI application with [Typelevel Toolkit](https://typelevel.org/toolkit/)
  - [ ] Build a pure functional web server using http4s.
 
 
