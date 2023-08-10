@@ -34,7 +34,7 @@ There are plenty of other great books to check out as well.
     The standard build tool for most Scala projects
     
 # Online Resources/Blogposts about Cats and Cats Effect
-    - [Error handling](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
+   - [Error handling](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
     
 # Develop
 
