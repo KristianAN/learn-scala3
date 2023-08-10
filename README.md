@@ -5,7 +5,7 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
 # Books
  - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala-second-edition)
  - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
- - [Scala for the impatient](https://horstmann.com/scala/)
+ - [Scala for the impatient](https://horstmann.com/scala/) Not strictly an FP resource, but good for getting up to speed with the language
 
 There are plenty of other great books to check out as well.
 
