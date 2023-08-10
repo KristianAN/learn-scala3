@@ -5,8 +5,9 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
 # Books
  - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala-second-edition)
  - [Scala with Cats](https://underscore.io/books/scala-with-cats/)
+ - [Scala for the impatient](https://horstmann.com/scala/)
 
- The books are listed in suggested reading order. There are plenty of other great books to check out as well.
+There are plenty of other great books to check out as well.
 
 # Official Documentation
  - [Scala 3 book](https://docs.scala-lang.org/scala3/book/introduction.html)
@@ -14,6 +15,9 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
 
 # Online courses
  - [Rock The JVM](https://rockthejvm.com/)
+
+# Online exercises
+  - [Scala-Exercises](https://www.scala-exercises.org/)
 
 # Libraries
  - [Cats Effect](https://typelevel.org/cats-effect/)
@@ -26,6 +30,11 @@ An opinionated list of Scala 3 FP resources. There are many similar lists out th
 # Tools
   - [Scala-CLI](https://scala-cli.virtuslab.org)
     Scala CLI is a command-line tool to interact with the Scala language
+  - [SBT](https://www.scala-sbt.org/)
+    The standard build tool for most Scala projects
+    
+# Online Resources/Blogposts about Cats and Cats Effect
+    - [Error handling](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
     
 # Develop
 
